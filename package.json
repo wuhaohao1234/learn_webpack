@@ -1,7 +1,7 @@
 {
   "name": "learn_webpack",
   "version": "0.0.1",
-  "private": true,
+  "main": "dist/index.js",
   "repository": "https://github.com/wuhaohao1234/learn_webpack.git",
   "author": "wuhaohao <1611499758@qq.com>",
   "license": "MIT",
