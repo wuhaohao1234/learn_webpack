@@ -1,0 +1,19 @@
+{
+  "name": "webpack-ts-demo",
+  "version": "0.0.1",
+  "main": "dist/index.js"
+  "author": "wuhaohao <1611499758@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "dev": "tsc --watch && yarn lint",
+    "lint": "tslint --project tslint.json"
+  },
+  "dependencies": {
+    "ts-loader": "^5.3.3",
+    "tslint": "^5.13.0",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
