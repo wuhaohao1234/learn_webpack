@@ -1,0 +1,4 @@
+var demo = 10;
+var a = 5;
+export default demo;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZGVtby5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uL3NyYy9kZW1vLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLElBQU0sSUFBSSxHQUFXLEVBQUUsQ0FBQztBQUN4QixJQUFJLENBQUMsR0FBVSxDQUFDLENBQUM7QUFDakIsZUFBZSxJQUFJLENBQUEifQ==
